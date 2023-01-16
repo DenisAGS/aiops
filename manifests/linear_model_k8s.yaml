@@ -5,7 +5,7 @@ metadata:
   name: {model_name}-deployment
 spec:
   selector:
-    matchLabels:
+    matchLabels: 
       app: {model_name}-server
   replicas: 3
   template:
