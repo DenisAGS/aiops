@@ -18,7 +18,7 @@ The client  queries the server over the REST API
  repeatedly and measures how long it takes to respond.
 
    python linearmodel_client.py
-"""
+""" 
 
 from __future__ import print_function
 
